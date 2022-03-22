@@ -74,7 +74,7 @@ Affected Area: The trial app
 
 Severity: High
 
-Description: The error message reads: "The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application."
+Description: The error message reads: "The server encountered an internal error(error code 500) and was unable to complete your request. Either the server is overloaded or there is an error in the application."
 
 
 ## Creating SLIs and SLOs
